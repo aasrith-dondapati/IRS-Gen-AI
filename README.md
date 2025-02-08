@@ -1,1 +1,1 @@
-# IRS-Gen-AI
+Information-Retrival-System
